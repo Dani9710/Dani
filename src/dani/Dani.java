@@ -18,7 +18,6 @@ public class Dani {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("ESTA ES LA APLICACIÓN DE DANI");
         System.out.println("Bobo bobo bobo!! ><");
     }
 
