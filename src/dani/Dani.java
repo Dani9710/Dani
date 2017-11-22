@@ -21,6 +21,7 @@ public class Dani {
         System.out.println("Bobo bobo bobo!! ><");
         System.out.print("eh eh eh");
         System.out.println("SOY UNA DANI MUY BOOOOBA");
+        System.out.println("COMO SE CREA UNA CLASE?");
     }
 
 }
